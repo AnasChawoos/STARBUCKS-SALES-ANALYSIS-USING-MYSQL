@@ -63,7 +63,7 @@ Techniques: Data Cleaning, SQL Querying (including JOINs, GROUP BY, HAVING, Wind
 * Advanced statistical modeling for deeper insights into sales drivers.
 
 
-##Contact
+## Contact
 For any questions or collaborations, feel free to reach out:
 
 * Name: Anas Riyaz Chawoos 
