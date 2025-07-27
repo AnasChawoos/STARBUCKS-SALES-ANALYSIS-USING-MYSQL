@@ -44,5 +44,30 @@ This project addressed several critical business questions to derive actionable 
 
 (Detailed insights and visualizations for each of these questions are available in the Starbucks Analysis.pptx file.)
 
+## Methodology
+Data Source: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee
+
+Tools Used: MySQL (for database management and querying),MySql Workbench for Analysis.
+
+Techniques: Data Cleaning, SQL Querying (including JOINs, GROUP BY, HAVING, Window Functions, CTEs, Subqueries, Date Functions), Exploratory Data Analysis.
+
+## Future Enhancements
+* Integration of customer loyalty program data for personalized insights.
+
+* Time-series forecasting to predict future sales trends.
+
+* Analysis of the impact of marketing campaigns and promotions with A/B testing data.
+
+* Development of an interactive dashboard using tools like Tableau or Power BI.
+
+* Advanced statistical modeling for deeper insights into sales drivers.
+
+
+##Contact
+For any questions or collaborations, feel free to reach out:
+Name: Anas Riyaz Chawoos 
+GitHub: https://github.com/AnasChawoos
+LinkedIn: https://www.linkedin.com/in/anas-chawoos-57b34a246/
+
 
 
