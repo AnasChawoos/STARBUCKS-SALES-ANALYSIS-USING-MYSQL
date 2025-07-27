@@ -65,9 +65,10 @@ Techniques: Data Cleaning, SQL Querying (including JOINs, GROUP BY, HAVING, Wind
 
 ##Contact
 For any questions or collaborations, feel free to reach out:
-Name: Anas Riyaz Chawoos 
-GitHub: https://github.com/AnasChawoos
-LinkedIn: https://www.linkedin.com/in/anas-chawoos-57b34a246/
+
+* Name: Anas Riyaz Chawoos 
+* GitHub: https://github.com/AnasChawoos
+* LinkedIn: https://www.linkedin.com/in/anas-chawoos-57b34a246/
 
 
 
